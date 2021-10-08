@@ -9,8 +9,7 @@ For this assignment, you will build a **three page** website with a **responsive
 The following instructions will help you work through the image preparation, HTML, and CSS required to create this website.
 
 What you are buiding: 
-
-(Assignment 1 - Overview)[https://bit.ly/307nOe9]
+Assignment 1 - Overview: https://bit.ly/307nOe9
 ---
 
 ## Contents
