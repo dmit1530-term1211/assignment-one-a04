@@ -9,7 +9,7 @@ For this assignment, you will build a **three page** website with a **responsive
 The following instructions will help you work through the image preparation, HTML, and CSS required to create this website.
 
 What you are buiding: 
-Assignment 1 - Overview: https://bit.ly/307nOe9
+Assignment 1 - Overview: 
 ---
 
 ## Contents
@@ -95,11 +95,12 @@ Working within a single stylesheet, ``styles.css``, you will utilise flexbox and
 
 The following colours are used throughout the website:
 
-1. yellow-green: #eaf1cf;
-2. lt-green: #a6b65d;
-3. md-green: #203b04;
-4. dk-green: #141609;
-4. light grey:  #F5F5F5;
+
+1. yellow green: #cfc59f;
+2. light green: #39a632;
+3. medium green: #203b04;
+4. dark green: #141609;
+5. light grey: #F5F5F5;
 
 For the semi-transparent box near the bottom on the community page, try using the following declaration:
 
