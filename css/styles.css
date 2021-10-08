@@ -1,0 +1,26 @@
+/*
+    COLOUR PALETTE
+
+ dark blue:   #084272;
+ light blue:  #E5F5FA;
+ medium blue: #005FAA;
+ light grey:  #F5F5F5;
+ green:       #6ba23f;
+
+*/
+
+/* UTILITY CLASSES */
+
+.container {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+/* UNIVERSAL STYLES & TYPOGRAPHY */
+
+/* MOBILE LAYOUT */
+
+/* MEDIA QUERIES */
