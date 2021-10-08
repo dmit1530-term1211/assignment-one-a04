@@ -8,7 +8,9 @@ For this assignment, you will build a **three page** website with a **responsive
 
 The following instructions will help you work through the image preparation, HTML, and CSS required to create this website.
 
-What you are buiding: (Assignment 1 - Overview)[https://naitca.sharepoint.com/:v:/r/teams/DMIT1530A04-Web2/Shared%20Documents/Assignment%20Video/Recordings/View%20Only/Assignment%20One%20-%20Overview-20211008_013125-Meeting%20Recording.mp4?csf=1&web=1&e=iOI4n6]
+What you are buiding: 
+
+(Assignment 1 - Overview)[https://naitca.sharepoint.com/:v:/r/teams/DMIT1530A04-Web2/Shared%20Documents/Assignment%20Video/Recordings/View%20Only/Assignment%20One%20-%20Overview-20211008_013125-Meeting%20Recording.mp4?csf=1&web=1&e=iOI4n6]
 ---
 
 ## Contents
